@@ -1,4 +1,4 @@
-# Matplotlib-Pymaceuticals
+# Matplotlib - Pymaceuticals
 
 ## Background
 
